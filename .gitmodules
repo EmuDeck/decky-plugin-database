@@ -148,3 +148,6 @@
 [submodule "plugins/TabMaster"]
 	path = plugins/TabMaster
 	url = https://github.com/Tormak9970/TabMaster
+[submodule "plugins/emudeck-decky-controls"]
+	path = plugins/emudeck-decky-controls
+	url = https://github.com/EmuDeck/emudeck-decky-controls
